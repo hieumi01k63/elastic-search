@@ -1,4 +1,4 @@
-# Documenting My Thought Process
+# Documenting My Thought Process (Duration: 4.5 hours)
 
 ## WHAT I Wanted to Achieve
 
