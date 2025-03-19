@@ -51,6 +51,11 @@ I used button for my Tags and Result Itema. I structured components in a way tha
 
 ---
 
+## 📝 Useful notes
+
+- To make the API failed, visit src\utils\apis.ts and change the "no-throttling" params
+- To make the API time-out, visit src\utils\apis.ts and change the "timeout" to some small number (in ms), then use dev-tool to simulate slow-network device
+
 ## 🔧 How to Run the Project (dead simple)
 
 ```sh
